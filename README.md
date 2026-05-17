@@ -5,19 +5,19 @@
 
 ## Структура проекта
 laba5-stl/
-├── task1_warehouse/ # Задание 1: Учет товаров на складе
+├── task1_warehouse/
 │ ├── main.cpp
 │ ├── warehouse.h
 │ └── warehouse.cpp
-├── task2_queue/ # Задание 2: Электронная очередь
+├── task2_queue/
 │ ├── main.cpp
 │ ├── queue_system.h
 │ └── queue_system.cpp
-├── task3_tram/ # Задание 3: Управление трамваями
+├── task3_tram/
 │ ├── main.cpp
 │ ├── tram_actions.h
 │ └── tram_actions.cpp
-├── task4_regions/ # Задание 4: Справочник регионов
+├── task4_regions/
 │ ├── main.cpp
 │ ├── regions.h
 │ └── regions.cpp
