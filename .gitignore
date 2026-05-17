@@ -1,0 +1,19 @@
+# Исполняемые файлы
+warehouse
+queue
+tram
+regions
+*.exe
+*.out
+
+# Файлы VS Code
+.vscode/
+
+# Временные файлы
+*.o
+*.tmp
+*.swp
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
